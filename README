@@ -1,0 +1,32 @@
+VCS/Lite version 0.02
+=====================
+
+This is the initial version of VCS::Lite. Algorithm::Diff needs to
+be installed first.
+
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module requires these other modules and libraries:
+
+  Algorithm::Diff
+
+UPGRADING
+
+Note that the API has changed from previous versions. Please check that
+your code complies with the API described in the pod if upgrading.
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2003 Ivor Williams
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself. 
+
