@@ -1,4 +1,8 @@
-Revision history for Perl extension VCS::Lite.
+Revision history for VCS::Lite
+==============================
+
+        - added new git repo links.
+        - META file updates.
 
 0.10    2013-01-20
         - change file dates changed to meet W3CDTF standards.

@@ -54,7 +54,12 @@
     },
 
     "resources": {
-        "license": "http://dev.perl.org/licenses/",
-        "bugtracker": { "web": "http://rt.cpan.org/Public/Dist/Display.html?Name=VCS-Lite" }
+        "license": "http://www.perlfoundation.org/artistic_license_2_0",
+        "bugtracker": { "web": "http://rt.cpan.org/Public/Dist/Display.html?Name=VCS-Lite" },
+        "repository": {
+            "url": "git://github.com/barbie/vcs-lite.git",
+            "web": "http://github.com/barbie/vcs-lite",
+            "type": "git"
+        }
     }
 }
