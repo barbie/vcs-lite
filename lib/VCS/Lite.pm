@@ -2,7 +2,7 @@ package VCS::Lite;
 
 use strict;
 use warnings;
-our $VERSION = '0.10';
+our $VERSION = '0.11';
 
 #----------------------------------------------------------------------------
 
@@ -611,12 +611,12 @@ be forthcoming, please feel free to (politely) remind me.
 =head1 AUTHOR
 
   Original Author: Ivor Williams (RIP)          2002-2009
-  Current Maintainer: Barbie <barbie@cpan.org>  2009-2013
+  Current Maintainer: Barbie <barbie@cpan.org>  2009-2014
 
 =head1 COPYRIGHT
 
   Copyright (c) Ivor Williams, 2002-2006
-  Copyright (c) Barbie,        2009-2013
+  Copyright (c) Barbie,        2009-2014
 
 =head1 LICENCE
 
