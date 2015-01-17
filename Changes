@@ -1,5 +1,7 @@
-Revision history for VCS::Lite
-==============================
+Revision history for VCS-Lite
+=============================
+
+        - fixed license fields in META.json to be lists.
 
 0.11    2014-03-25
         - added new git repo links.
@@ -8,7 +10,7 @@ Revision history for VCS::Lite
 0.10    2013-01-20
         - change file dates changed to meet W3CDTF standards.
         - License updated to Artistic License v2.0.
-	    - added minimum perl version (5.006).
+        - added minimum perl version (5.006).
         - reworked Makefile.PL for clarity.
         - added LICENSE & META.json files.
         - updated test suite.
