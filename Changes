@@ -2,6 +2,7 @@ Revision history for VCS-Lite
 =============================
 
         - fixed license fields in META.json to be lists.
+        - extended META test suite.
 
 0.11    2014-03-25
         - added new git repo links.
